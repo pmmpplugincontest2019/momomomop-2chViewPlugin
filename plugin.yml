@@ -1,0 +1,6 @@
+name: chView
+main: chView\Start
+version: 1
+api: [3.9.4]
+author: mo
+description: watch 5ch(2ch)
